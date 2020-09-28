@@ -1,7 +1,7 @@
 # NIC-i211-WinSrv2019
 Customized Intel NIC i211 Driver for Windows Server 2019
 
-Based on Intel NIC Driver **`PROWinx64-v25.2`** in 2020 | *PRO1000\Winx64\NDIS68*
+Based on Intel NIC Driver **`PROWinx64-v25.2`** in 2020 | *`PRO1000\Winx64\NDIS68`*
 
 ---
 **Usage:**
