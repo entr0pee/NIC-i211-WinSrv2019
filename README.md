@@ -3,7 +3,8 @@ Customized Intel NIC i211 Driver for Windows Server 2019
 
 Based on Intel NIC Driver **`PROWinx64-v25.2`** in 2020
 
-Usage:
+---
+**Usage:**
 
 1. Download this repo and copy files to a folder onto a USB drive
 2. Mount the USB Drive to Windows Server 2019 (Hyper-V Server 2019)
